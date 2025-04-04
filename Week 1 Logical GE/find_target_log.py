@@ -1,9 +1,12 @@
 def find_target(list, target):
-    d = {}
+   ''' d = {}
     for i in range(len(list)):
         d[list[i]]=i
     
-    return d.get(target,-1)
+    return d.get(target,-1)'''
+   
+   d = {num : idx for num , idx in enumerate(list) }
+   return d.get(target,-1)
 
 
 list = []
