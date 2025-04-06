@@ -1,13 +1,14 @@
 import array as arr
 def find_target(nums, target):
-    d = {}
+   ''' d = {}
     for i , num in enumerate(nums):
         compliment = target - num 
         if compliment in d :
             return[d[compliment],i]
         d[num]=i
     
-    return []
+    return []'''
+   
 
 
 n = int(input("Enter desired length"))
