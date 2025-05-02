@@ -1,0 +1,6 @@
+[
+  {"name": "Alice", "email": "alice@x.com", "content": "Experienced in python, AWS, and docker"},
+  {"name": "Bob", "email": "bob@x", "content": "Knows Java and Spring"},
+  {"name": "Bablu", "email": "bablu@x.com", "content": "Knows python , JS , Pytest , docker and regex"}
+  
+]

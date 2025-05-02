@@ -1,0 +1,4 @@
+[12:01] Alice: Hi there!
+[12:02] Bob: Hey Alice
+[12:03] Alice: How are you?
+[12:04] Bob -> Alice: I'm good, you?

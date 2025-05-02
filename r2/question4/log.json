@@ -1,0 +1,18 @@
+{
+    "john.doe@example.com": {
+        "count": 4,
+        "ip": [
+            "192.168.1.10"
+        ]
+    },
+    "admin": {
+        "count": 1,
+        "ip": [
+            "192.168.1.20"
+        ]
+    },
+    "jane.doe@example.com": {
+        "count": 1,
+        "ip": []
+    }
+}

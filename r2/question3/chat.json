@@ -1,0 +1,26 @@
+[
+    {
+        "time": "12:01",
+        "sender": "Alice",
+        "message": "Hi there!",
+        "receiver": null
+    },
+    {
+        "time": "12:02",
+        "sender": "Bob",
+        "message": "Hey Alice",
+        "receiver": null
+    },
+    {
+        "time": "12:03",
+        "sender": "Alice",
+        "message": "How are you?",
+        "receiver": null
+    },
+    {
+        "time": "12:04",
+        "sender": "Bob",
+        "message": "I'm good, you?",
+        "receiver": "Alice"
+    }
+]
